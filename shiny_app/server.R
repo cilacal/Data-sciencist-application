@@ -16,7 +16,6 @@ if (!require("rstudioapi")){
 } else library(rstudioapi)
 
 #Loading the data
-#Loading the data
 wd <- getActiveDocumentContext()$path
 wd <- gsub("/","//",wd)
 wd <- gsub("//shiny_app//server.R","",wd)
