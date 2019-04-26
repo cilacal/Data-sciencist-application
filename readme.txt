@@ -1,1 +1,2 @@
-This is a readme file to test the github!
+This repository needs some cleaning and updating! 
+It will be done in a few weeks.
